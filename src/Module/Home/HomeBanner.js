@@ -63,7 +63,7 @@ const HomeBanner = () => {
             </Button>
           </div>
           <div className="banner-img">
-            <img src="/bannerMain.png" alt="Banner" />
+            <img src="./bannerMain.png" alt="Banner" />
           </div>
         </div>
       </div>
